@@ -17,7 +17,7 @@ void fsm_manual() {
 				status_system = RED_LED;
 			}
 			break;
-		case RED_LED: //thiết lập time cho 4 led red
+		case RED_LED: //thiết lập time  4 led red
 			status_modify = RED_MODIFY;
 			//button3
 			if (isButtonPressed(2) == 1) {
@@ -29,7 +29,7 @@ void fsm_manual() {
 				status_system = YELLOW_LED;
 			}
 			break;
-		case YELLOW_LED: //thiết lập time cho 4 led yellow
+		case YELLOW_LED: //thiết lập time 4 led yellow
 			status_modify = YELLOW_MODIFY;
 			//button3
 			if (isButtonPressed(2) == 1) {
@@ -44,7 +44,7 @@ void fsm_manual() {
 				status_system = GREEN_LED;
 			}
 			break;
-		case GREEN_LED: ////thiết lập time cho 4 led green
+		case GREEN_LED: ////thiết lập time 4 led green
 			status_modify = GREEN_MODIFY;
 			//button3
 			if (isButtonPressed(2) == 1) {
