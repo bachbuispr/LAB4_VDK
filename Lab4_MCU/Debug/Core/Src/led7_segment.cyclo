@@ -1,0 +1,4 @@
+../Core/Src/led7_segment.c:18:6:display7SEG_ver	11
+../Core/Src/led7_segment.c:120:6:display7SEG_hor	11
+../Core/Src/led7_segment.c:222:6:update_7SEG_ver	3
+../Core/Src/led7_segment.c:239:6:update_7SEG_hor	3

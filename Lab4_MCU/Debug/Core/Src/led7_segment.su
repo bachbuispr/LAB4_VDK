@@ -1,0 +1,4 @@
+../Core/Src/led7_segment.c:18:6:display7SEG_ver	16	static
+../Core/Src/led7_segment.c:120:6:display7SEG_hor	16	static
+../Core/Src/led7_segment.c:222:6:update_7SEG_ver	16	static
+../Core/Src/led7_segment.c:239:6:update_7SEG_hor	16	static

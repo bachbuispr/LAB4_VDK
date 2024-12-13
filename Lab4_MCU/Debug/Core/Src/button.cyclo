@@ -1,0 +1,2 @@
+../Core/Src/button.c:17:5:isButtonPressed	2
+../Core/Src/button.c:25:6:getKeyInput	10
